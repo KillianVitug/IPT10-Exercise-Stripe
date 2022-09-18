@@ -1,0 +1,11 @@
+{
+    "name": "jaja/stripe",
+    "autoload": {
+        "psr-4": {
+            "Jaja\\Stripe\\": "src/"
+        }
+    },
+    "require": {
+        "stripe/stripe-php": "^9.6"
+    }
+}
